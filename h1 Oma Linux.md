@@ -6,7 +6,10 @@ Latasin Virtual Box:n kurssin sivustolta, ja siirsin sen tiedoston omalle kansio
 
 Annoin se lataa rauhallisesti ja palattua takaisin tietokoneen äärelle, tietokoneen näytöllä näkyi Virtual Box:n käyttöliittymän. Se näytti hieman erilaiselta kuin mitä ohjeistuksessa näkyi. Sen taustaväri oli valkoisen sijasta mustavärinen, sekä muutamat sanat olivat vaihdettu jollakin toisella sanalla joka oli tavallaan synonyyminen sen alkuperäisen kanssa. Jouduin hieman miettiä ja etsiä lisää tietoa Virtuaali Boxsista eli Oraclesta, sillä ohjeistuksen käyttöliittymä oli erilainen minun käytössä oleva käyttöliittymä kanssa, joten jouduin tässä tapauksessa etsiä netistä hieman lisää tietoa.
 
-Monet asiat jotta piti suorittaa olivat automaattisesti tehty jo, eikä tarvinnut manuaalisesti tehdä sen. Esimerkiksi en tarvinnut lähteä tekemään "Insert Debian ISO Image as a Virtual CDROM" osiota, koska ohjelma teki se minun puolestani. Heti sen jälkeen kuin loin virtuaalikoneen ja käynnistin sen saman tien. Odotin muutaman sekuntia ja oman tietokoneen näytölle tuli virtuaalikoneen käyttöliittymän, valitsin näppäimistöllä "Live" vaihtoehdon.
+Monet asiat jotta piti suorittaa olivat automaattisesti tehty jo, eikä tarvinnut manuaalisesti tehdä sen. Esimerkiksi en tarvinnut lähteä tekemään "Insert Debian ISO Image as a Virtual CDROM" osiota, koska ohjelma teki se minun puolestani. Heti sen jälkeen kuin loin virtuaalikoneen ja käynnistin sen saman tien. Odotin muutaman sekuntia ja oman tietokoneen näytölle tuli virtuaalikoneen käyttöliittymän, valitsin
+näppäimistöllä "Live" vaihtoehdon.
+
+![
 
 ## Debian "asentaminen"
 
@@ -20,17 +23,18 @@ Alussa kirjoitin “Helsinki” tekstikenttään, mutta sitten kokeili valita su
 Pieni tiivistys artikkellista
 - Yleisin väärinkäsitys "Free Software" on se, että ihmiset luulevat sen tarkoittavan ohjelmistoa, joka on ilmainen. Mutta todellisuudessa se ei ole näin.
 - “Free Software” tarkoittaa sitä, että käyttäjillä on vapaus käyttää, kopioida, jakaa, tutkia, muuttaa ja parantaa ohjelmistoa. 
-- Ilmaisia ohjelmistoja voidaan käyttää kaupalliseen toimintaan
-- Valtioiden määräykset tai kauppapakotteet voivat rajoittaa vapauttasi levittää ohjelmien kopioita kansainvälisesti.
-ernment regulations or trade sanctions can limit your freedom to distribute copies of programs internationally.
+- Ilmaisia ohjelmistoja voidaan käyttää kaupalliseen toimintaan.
+- Valtioiden määräykset tai pakotteet voivat rajoittaa vapauttasi levittää ohjelmistojen kopiot maailmanlaajuisesti.
+- Jos ohjelmisto voi vapaasti, käyttää, kopioida, jakaa, tutkia ja muuttaa, niin myös manuaali täytyy olla saatavilla koska se on sitä ohjelmistoa.
 
 
 # Raportin kirjoittaminen
 > [!NOTE]
-> Pieni tiivistys artikkellista
+> Pieni tiivistys artikkellista.
 - Raportointi tarkoitettaan sillä, että kerrot yksityiskohtaisesti mitä teit, ja mitä sen jälkeen tapahtui.
 - Lähteisiin viitaminen on isot plussat raportin tekemisessä.
-- On otettava huomio raportin helppolukuisuus
+- On otettava huomio raportin helppolukuisuutta.
+- Tekijänoikeudet täytyy ottaa aina huomion kun kirjoitat raportin.
 
 
 ### Lähdeet:
