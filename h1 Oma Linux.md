@@ -9,7 +9,7 @@ Annoin se lataa rauhallisesti ja palattua takaisin tietokoneen äärelle, tietok
 Monet asiat jotta piti suorittaa olivat automaattisesti tehty jo, eikä tarvinnut manuaalisesti tehdä sen. Esimerkiksi en tarvinnut lähteä tekemään "Insert Debian ISO Image as a Virtual CDROM" osiota, koska ohjelma teki se minun puolestani. Heti sen jälkeen kuin loin virtuaalikoneen ja käynnistin sen saman tien. Odotin muutaman sekuntia ja oman tietokoneen näytölle tuli virtuaalikoneen käyttöliittymän, valitsin
 näppäimistöllä "Live" vaihtoehdon.
 
-![
+![https://github.com/PvtPrivacy/Fort-Private/blob/main/Virtual%20Machine%20%231.PNG]
 
 ## Debian "asentaminen"
 
