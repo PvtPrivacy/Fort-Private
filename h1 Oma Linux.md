@@ -19,7 +19,7 @@ Alussa kirjoitin “Helsinki” tekstikenttään, mutta sitten kokeili valita su
 
 ## Free Software
 > [!NOTE]
-> Advises about risks or negative outcomes of certain actions.
+> Pieni tiivistys artikkellista.
 Pieni tiivistys artikkellista
 - Yleisin väärinkäsitys "Free Software" on se, että ihmiset luulevat sen tarkoittavan ohjelmistoa, joka on ilmainen. Mutta todellisuudessa se ei ole näin.
 - “Free Software” tarkoittaa sitä, että käyttäjillä on vapaus käyttää, kopioida, jakaa, tutkia, muuttaa ja parantaa ohjelmistoa. 
