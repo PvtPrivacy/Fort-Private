@@ -11,6 +11,10 @@ Annoin se lataa rauhallisesti ja palattua takaisin tietokoneen äärelle, tietok
 Monet asiat jotta piti suorittaa olivat automaattisesti tehty jo, eikä tarvinnut manuaalisesti tehdä sen. Esimerkiksi en tarvinnut lähteä tekemään "Insert Debian ISO Image as a Virtual CDROM" osiota, koska ohjelma teki se minun puolestani. Heti sen jälkeen kuin loin virtuaalikoneen ja käynnistin sen saman tien. Odotin muutaman sekuntia ja oman tietokoneen näytölle tuli virtuaalikoneen käyttöliittymän, valitsin
 näppäimistöllä "Live" vaihtoehdon.
 
+![Kuva asennuksesta](https://github.com/PvtPrivacy/Fort-Private/blob/main/Virtual%20Machine%20%231.PNG?raw=true)
+
+Kuva minun vaiheesta, kun olin luomassa virtuaali ympäristön.
+
 ## Debian "asentaminen"
 
 Kone avautui, ja se näky oli tismalleen samanlainen kuin mitä ohjeistuksessa kuvattiin. Testasin, että toimiiko se virtuaalikoneen menemällä sen kautta Internetti ja sieltä Tero Karvisen sivuston. Testaus meni ongelmitta ja onnistui pääsemään Karvisen sivustoon. Aloitin viimeisen vaiheen, ja se oli käynnistää Debian asentaa virtuaalisessa ympäristössä. Seurasin ohjeistuksen mukaan, jätin kielivaihtoehdona oletuksena eli “American England”, seuraavaksi valitsin aikavyöhykettä. 
